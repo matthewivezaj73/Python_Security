@@ -1,3 +1,3 @@
 #Importing library.
-from scapy.all import *
+from scapy import *
 import ipaddress
