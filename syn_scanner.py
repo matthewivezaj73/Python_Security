@@ -9,3 +9,4 @@ def SynScan(host):
     """
     A function that will carry out a Syn scan.
     """
+    
