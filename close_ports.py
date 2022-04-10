@@ -4,4 +4,3 @@ import sys
 import os
 #Assigning a variable the output of netstat -ano.
 os.system('TASKKILL /F /PID 4')
-#Reading index 0 and inserting a newline char plus a carraige return.
