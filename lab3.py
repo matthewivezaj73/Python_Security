@@ -1,5 +1,6 @@
 #importing libraries.
 import os
+#Changing directories to users.
 #Executing dir command.
 os.system('dir')
 #Asking for user input.
