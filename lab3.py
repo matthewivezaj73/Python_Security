@@ -14,3 +14,5 @@ os.chdir(path)
 os.system('dir')
 #Executing systeminfo command.
 os.system('systeminfo >sysinfo.txt')
+#Executing dir command.
+os.system('dir')
