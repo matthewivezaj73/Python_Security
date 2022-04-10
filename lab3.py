@@ -10,3 +10,5 @@ os.system('dir')
 path = input("Please enter your path: ")
 #Executing cd to desktop command.
 os.chdir(path)
+#Executing dir command.
+os.system('dir')
