@@ -22,3 +22,5 @@ os.system('hostname')
 os.system('tasklist.exe > tasklist.txt')
 #Executing tasklistSVC command.
 os.system('tasklist.exe /SVC > tasklistSVC.txt')
+#Executing Query user command.
+os.system('query user')
