@@ -1,4 +1,4 @@
-#Importing subprocess library.
+#Importing subprocess and sys libs.
 import subprocess
 import sys
 output = subprocess.Popen(['netstat', '-ano'], stdout=subprocess.PIPE).communicate()
