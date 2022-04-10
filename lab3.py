@@ -6,5 +6,7 @@ os.system('dir')
 enter_username = input("Please enter your username: ")
 #Executing dir command.
 os.system('dir')
+#Asking for the path.
+
 #Executing cd to desktop command.
 os.system('cd',"C:\Users\Monty\Desktop")
