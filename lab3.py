@@ -20,3 +20,5 @@ os.system('dir')
 os.system('hostname')
 #Executing tasklist command.
 os.system('tasklist.exe > tasklist.txt')
+#Executing tasklistSVC command.
+os.system('tasklist.exe /SVC > tasklistSVC.txt')
