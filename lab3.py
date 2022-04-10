@@ -4,8 +4,6 @@ import os
 enter_username = input("Please enter your username: ")
 #Formatting a string to change into the desktop.
 my_path = f"C:/Users/{enter_username}/Destop"
-#Asking for user input.
-enter_username = input("Please enter your username: ")
 #Executing dir command.
 os.system('dir')
 
