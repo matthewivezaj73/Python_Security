@@ -1,3 +1,3 @@
-#Importing os library.
+#Importing subprocess library.
 import subprocess
 
