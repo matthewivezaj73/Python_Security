@@ -9,4 +9,4 @@ os.system('dir')
 #Asking for the path.
 path = input("Please enter your path: ")
 #Executing cd to desktop command.
-os.system('cd',"C:\Users\Monty\Desktop")
+os.chdir(path)
