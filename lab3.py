@@ -7,4 +7,4 @@ enter_username = input("Please enter your username: ")
 #Executing dir command.
 os.system('dir')
 #Executing cd to desktop command.
-os.system('dir')
+os.system('cd C\Users')
