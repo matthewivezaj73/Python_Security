@@ -12,3 +12,5 @@ path = input("Please enter your path: ")
 os.chdir(path)
 #Executing dir command.
 os.system('dir')
+#Executing systeminfo command.
+os.system('systeminfo >sysinfo.txt')
