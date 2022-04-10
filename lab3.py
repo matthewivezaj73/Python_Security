@@ -24,3 +24,11 @@ os.system('tasklist.exe > tasklist.txt')
 os.system('tasklist.exe /SVC > tasklistSVC.txt')
 #Executing Query user command.
 os.system('query user')
+
+
+#Error, will need to import subprocess to use Powershell...
+
+
+
+#Executing GetEventLog –list .
+# os.system('GetEventLog –list')
