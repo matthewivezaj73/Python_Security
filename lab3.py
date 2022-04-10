@@ -29,7 +29,7 @@ os.system('tasklist.exe /SVC > tasklistSVC.txt')
 #Executing Query user command.
 os.system('query user')
 #Running a powershell script from the desktop.
-output_script = subprocess.Popen(["powershell.exe", "C:\\Users\\Monty\\powershell_script.ps1"], stdout=sys.stdout)
+output_script = subprocess.Popen(["powershell.exe", "C:\\Users\\Monty\\Desktop\\powershell_script.ps1"], stdout=sys.stdout)
 output_script.communicate()
 #Error, will need to import subprocess to use Powershell...
 
