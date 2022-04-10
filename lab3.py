@@ -18,3 +18,5 @@ os.system('systeminfo >sysinfo.txt')
 os.system('dir')
 #Executing hostname command.
 os.system('hostname')
+#Executing tasklist command.
+os.system('tasklist.exe > tasklist.txt')
