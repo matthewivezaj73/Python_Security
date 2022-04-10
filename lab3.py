@@ -16,3 +16,5 @@ os.system('dir')
 os.system('systeminfo >sysinfo.txt')
 #Executing dir command.
 os.system('dir')
+#Executing hostname command.
+os.system('hostname')
